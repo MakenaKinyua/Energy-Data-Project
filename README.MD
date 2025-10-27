@@ -1,8 +1,9 @@
-### AFRICA ENERGY PROJECT 
+
+## AFRICA ENERGY PROJECT 
 
 ---
 
-#### Project Overview 📚
+### Project Overview 
 
 The Africa Energy project is all about obtaining data about Energy Indicators across 54 African countries from a dynamic webpage. 
 
@@ -14,7 +15,7 @@ b. Visualization dashboard done using Power BI that helps us make sense of the d
 
 ---
 
-#### Tech Stack 🧵
+### Tech Stack 
 
 - **Languages:** Python  
 - **Libraries:** pandas, selenium  
@@ -22,28 +23,32 @@ b. Visualization dashboard done using Power BI that helps us make sense of the d
 
 ---
 
-#### Installation 📍
+### Installation
 
 **Clone the repo**
-`git clone https://github.com/username/Energy-Data-Project.git
-cd Energy-Data-Project`
 
-**Create virtual environment**
-`python -m venv venv
-source venv/Scripts/activate`
+```bash
+git clone https://github.com/username/Energy-Data-Project.git
+cd Energy-Data-Project
+```
+
+**Create and activate virtual environment**
+```bash
+python -m venv venv
+source venv/Scripts/activate
+```
 
 **Install dependencies**
-`pip install -r requirements.txt
-`
+```bash
+pip install -r requirements.txt
+```
+
+### Usage
+
+Run the python extraction script
 
 ---
 
-#### Usage 📑
-
-Run the python script which extracts the data.
-
----
-
-#### License 🪪
+### License 
 
 This project is licensed under the MIT License.
